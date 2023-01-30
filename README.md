@@ -25,3 +25,6 @@ H2 para almacenamiento de datos
 Maven para gestión de dependencias
 Junit para creación de test unitarios
 Git para control de versiones
+
+
+NOTA: La primera carga de la BD se encuentra en la siguiente ruta \demo\src\test\java\com\example\demo\TestCase\Db\PrimeraCarga
